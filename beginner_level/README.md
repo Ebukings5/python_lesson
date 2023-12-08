@@ -4,8 +4,10 @@ Welcome to the "projects" directory of our collaborative Python learning reposit
 
 ## Project List
 
-1. **Hello World:**
+0. **Hello World:**
    - Start with the classic "Hello World" project to get familiar with Python syntax.
+1. **Tip Calculator:**
+   - Create a simple tip calculator using Python.
 
 2. **Guess the Number:**
    - Create a simple number guessing game using Python.
