@@ -6,6 +6,7 @@ Welcome to the "projects" directory of our collaborative Python learning reposit
 
 0. **Hello World:**
    - Start with the classic "Hello World" project to get familiar with Python syntax.
+   
 1. **Tip Calculator:**
    - Create a simple tip calculator using Python.
 
